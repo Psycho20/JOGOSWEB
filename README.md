@@ -1,2 +1,2 @@
 # JOGOSWEB
-[CRIAÇÃO DE ARQUIVO HTML](https://psycho20.github.io/JOGOSWEB/HTML/NOME.HTML)
+[CRIAÇÃO DE ARQUIVO HTML](https://psycho20.github.io/)
