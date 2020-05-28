@@ -1,2 +1,2 @@
 # JOGOSWEB
-[CRIAÇÃO DE ARQUIVO HTML]
+[CRIAÇÃO DE ARQUIVO HTML](file:///C:/Users/Lucas/Desktop/HTML/NOME.HTML)
