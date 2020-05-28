@@ -1,5 +1,6 @@
 # JOGOSWEB
-[CRIAÇÃO DE ARQUIVO HTML](https://psycho20.github.io/
+[CRIAÇÃO DE ARQUIVO HTML](https://psycho20.github.io/)
+
 <!DOCTYPE html>
 <meta charset="utf-8"/>
 <html>
@@ -14,4 +15,4 @@
 	
 
 	</body>
-</html)
+</html>
